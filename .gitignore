@@ -1,0 +1,11 @@
+*.py[cod]
+*.sqlite3
+*.swp
+*.log
+*~
+.python-version
+
+__pycache__
+.ropeproject
+.DS_Store
+build/
